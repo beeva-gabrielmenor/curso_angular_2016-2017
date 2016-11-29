@@ -1,4 +1,4 @@
-# Curso_angular_2015-2016
+# Curso_angular_2016-2017
 
 **Contenido del bloque práctico:**
 
