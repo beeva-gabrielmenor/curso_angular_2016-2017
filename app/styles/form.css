@@ -1,0 +1,12 @@
+/*.ng-dirty{
+ background-color: yellow;
+}
+
+.ng-valid{
+ background-color: green;
+}*/
+
+/*Override de la clase has-error*/
+.has-error .form-control{
+	background-color: #f2dede;
+}
