@@ -10,6 +10,9 @@
 moduleAngular
   .controller('FormCtrl', ['$scope', function ($scope){
 
+      $scope.submit = function() {
+      	alert("El formulario ha sido completado de manera correcta.")
+      };
 
 
 }]);
